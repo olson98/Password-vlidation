@@ -1,0 +1,13 @@
+C:\Users\olson\source\repos\Practice\Genderdecision\bin\Debug\netcoreapp3.1\Genderdecision.exe
+C:\Users\olson\source\repos\Practice\Genderdecision\bin\Debug\netcoreapp3.1\Genderdecision.deps.json
+C:\Users\olson\source\repos\Practice\Genderdecision\bin\Debug\netcoreapp3.1\Genderdecision.runtimeconfig.json
+C:\Users\olson\source\repos\Practice\Genderdecision\bin\Debug\netcoreapp3.1\Genderdecision.runtimeconfig.dev.json
+C:\Users\olson\source\repos\Practice\Genderdecision\bin\Debug\netcoreapp3.1\Genderdecision.dll
+C:\Users\olson\source\repos\Practice\Genderdecision\bin\Debug\netcoreapp3.1\Genderdecision.pdb
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.csprojAssemblyReference.cache
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.AssemblyInfoInputs.cache
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.AssemblyInfo.cs
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.csproj.CoreCompileInputs.cache
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.dll
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.pdb
+C:\Users\olson\source\repos\Practice\Genderdecision\obj\Debug\netcoreapp3.1\Genderdecision.genruntimeconfig.cache
